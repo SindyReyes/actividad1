@@ -1,0 +1,18 @@
+
+* {
+    margin: 10px;
+    padding: 0px;
+}
+
+footer {
+    background-color:black;
+    color: pink;
+    height: 70px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+footer p {
+    padding-top: 1%;
+}
+
